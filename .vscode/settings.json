@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"iostream": "cpp",
+		"ostream": "cpp",
+		"stdexcept": "cpp",
+		"cmath": "cpp",
+		"*.tcc": "cpp",
+		"__tree": "cpp",
+		"map": "cpp",
+		"set": "cpp",
+		"limits": "cpp"
+	}
+}
